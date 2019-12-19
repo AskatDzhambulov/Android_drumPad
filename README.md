@@ -5,7 +5,7 @@
 ![Screenshot](/screen/DrumPad.png)
 
 
-<h2 align"center">Screen of Main Class</h2>
+<h2 align="center">Screen of Main Class</h2>
 
 ![Screenshot](/screen/MainClass.png)
 
