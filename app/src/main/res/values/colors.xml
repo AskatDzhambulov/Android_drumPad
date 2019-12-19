@@ -8,8 +8,20 @@
     <color name="blueStartColor">#47f9fe</color>
     <color name="blueEndColor">#1295fd</color>
 
-    <!-- gradient -->
-    <color name="blueStartColor">#47f9fe</color>
-    <color name="blueEndColor">#1295fd</color>
+    <!--orange gradient -->
+    <color name="orangeStartColor">#feed64</color>
+    <color name="orangeEndColor">#dda660</color>
+
+    <!--pink gradient -->
+    <color name="pinkStartColor">#fd75a5</color>
+    <color name="pinkEndColor">#ea1e77</color>
+
+    <!--purple gradient -->
+    <color name="purpleStartColor">#f75fe1</color>
+    <color name="purpleEndColor">#c425ec</color>
+
+    <!--green gradient -->
+    <color name="greenStartColor">#b4fa51</color>
+    <color name="greenEndColor">#78cb29</color>
 
 </resources>
