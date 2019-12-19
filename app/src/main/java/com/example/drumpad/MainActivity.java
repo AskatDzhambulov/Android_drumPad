@@ -39,39 +39,39 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void playSound1 (View v) {
-        sp.play(sound1,1.0f,1.0f,0,0,10f);
+        sp.play(sound1,1.0f,1.0f,0,0,0f);
     }
 
     public void playSound2 (View v) {
-        sp.play(sound2,1.0f,1.0f,0,0,10f);
+        sp.play(sound2,1.0f,1.0f,0,0,0f);
     }
 
     public void playSound3 (View v) {
-        sp.play(sound3,1.0f,1.0f,0,0,10f);
+        sp.play(sound3,1.0f,1.0f,0,0,0f);
     }
 
     public void playSound4 (View v) {
-        sp.play(sound4,1.0f,1.0f,0,0,10f);
+        sp.play(sound4,1.0f,1.0f,0,0,0f);
     }
 
     public void playSound5 (View v) {
-        sp.play(sound5,1.0f,1.0f,0,0,10f);
+        sp.play(sound5,1.0f,1.0f,0,0,0f);
     }
 
     public void playSound6 (View v) {
-        sp.play(sound6,1.0f,1.0f,0,0,10f);
+        sp.play(sound6,1.0f,1.0f,0,0,0f);
     }
 
     public void playSound7 (View v) {
-        sp.play(sound7,1.0f,1.0f,0,0,10f);
+        sp.play(sound7,1.0f,1.0f,0,0,0f);
     }
 
     public void playSound8 (View v) {
-        sp.play(sound8,1.0f,1.0f,0,0,10f);
+        sp.play(sound8,1.0f,1.0f,0,0,0f);
 
     }
 
     public void playSound9 (View v) {
-        sp.play(sound9,1.0f,1.0f,0,0,10f);
+        sp.play(sound9,1.0f,1.0f,0,0,0f);
     }
 }
