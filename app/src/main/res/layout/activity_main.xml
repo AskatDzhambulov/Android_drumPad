@@ -15,14 +15,20 @@
         android:layout_height="wrap_content"
         android:orientation="horizontal">
         <Button
+            android:background="@drawable/blue_button"
+            android:layout_marginLeft="5dp"
             android:onClick="playSound1"
             android:layout_width="100dp"
             android:layout_height="100dp" />
         <Button
+            android:background="@drawable/purple_button"
+            android:layout_marginLeft="5dp"
             android:onClick="playSound2"
             android:layout_width="100dp"
             android:layout_height="100dp" />
         <Button
+            android:background="@drawable/orange_button"
+            android:layout_marginLeft="5dp"
             android:onClick="playSound3"
             android:layout_width="100dp"
             android:layout_height="100dp" />
