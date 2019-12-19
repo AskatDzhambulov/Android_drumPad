@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#21222c</color>
+    <color name="colorPrimaryDark">#21222c</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!--blue gradient -->
+    <color name="blueStartColor">#47f9fe</color>
+    <color name="blueEndColor">#1295fd</color>
+
+    <!-- gradient -->
+    <color name="blueStartColor">#47f9fe</color>
+    <color name="blueEndColor">#1295fd</color>
+
+</resources>
